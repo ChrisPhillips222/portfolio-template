@@ -1,0 +1,49 @@
+@media (min-width: 544px) {  
+  .goal {font-size:0.5rem;}
+	footer{font-size:0.5rem!important;}
+}
+ 
+@media (min-width: 768px) {  
+  .goal {font-size:1rem;}
+	footer{font-size:0.7rem!important;}
+}
+ 
+@media (min-width: 992px) { 
+ .goal {font-size:1.5rem;}
+	footer{font-size:1rem!important;}
+}
+ 
+@media (min-width: 1200px) {  
+  .goal {font-size:2rem;}
+}
+	
+.goal{
+	text-align: center;
+	margin-top: 20px;
+}
+a:link {
+    color: #2F430E;
+}
+
+/* visited link */
+a:visited {
+    color: #2F430E;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: #2F430E;
+}
+main{
+	background: #A1BF8F;
+	color:#24281f;
+}
+
+footer {
+	text-align: center;background:#A1BF8F;color:#2F430E;
+}
