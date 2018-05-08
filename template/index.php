@@ -11,7 +11,9 @@
 </head>
 
 <body class="max-width">
+<nav class="navbar navbar-expand-md navbar-light" style="background-color:#A1BF8F">
 <?php include "includes/navigation.php"; ?>
+</nav>
 <main>
 <section class="row">
 <section class="col-md-6">
@@ -25,8 +27,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et faucibus or
 </section>
 </section>
 </main>
+<footer class="text-center">
 <?php include "includes/footer.php"; ?>
-
+</footer>
 <script src = "js/jquery-3.2.1.min.js"></script>
 <script src = "js/popper.min.js"></script>
 <script src = "js/bootstrap.min.js"></script>
