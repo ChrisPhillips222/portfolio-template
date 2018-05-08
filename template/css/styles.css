@@ -1,5 +1,5 @@
 @media (min-width: 544px) {  
-  .goal {font-size:0.5rem;}
+  .goal {font-size:0.9rem;}
 	footer{font-size:0.5rem!important;}
 }
  
@@ -16,10 +16,11 @@
 @media (min-width: 1200px) {  
   .goal {font-size:2rem;}
 }
-	
+
 .goal{
 	text-align: center;
 	margin-top: 20px;
+	font-size:0.9rem;
 }
 a:link {
     color: #2F430E;
