@@ -1,5 +1,13 @@
 # portfolio-template
 
+<strong>changes 05/08/2018 4:10pm</strong>
+
+<br>
+
+moved nav and footer structural elements from inside includes to index.php
+
+<br>
+
 <strong>changes 05/08/2018</strong>
 
 <p>
